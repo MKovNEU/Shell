@@ -1,5 +1,5 @@
 # Shell
-Basic shell programmed in C
+Basic shell programmed in C.
 Video of shell and how to run below:
 
 Demo video link: 
